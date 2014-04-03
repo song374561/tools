@@ -1,3 +1,10 @@
+/*
+* Name:			8comic cracker
+* Ver:			1.00
+* Authour:		wetprogrammer
+* Namespace:	http://blog.wetprogrammer.net
+* Description:	Find the picture real url.
+*/
 #include <iostream>
 #include <cctype>
 #include <cstdio>
